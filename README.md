@@ -31,7 +31,7 @@
 </p>
 
 ### :speech_balloon: Sobre
-Landingpage desenvolvida com instrução do instrutor **Matheus Battisti**. Uma página sobre um evento de decoração de ambiente,  utilizando técnicas  simples e modernas de desenvolvimento web. 
+Landingpage desenvolvida com instrução do instrutor **Matheus Battisti**. Uma página sobre um evento de decoração de ambiente,  utilizando técnicas  simples e modernas de desenvolvimento web.[Veja Aqui](https://wevdiaz.github.io/InDecor/) 
  
  ### :hammer_and_wrench: Tecnologias
  
